@@ -6,7 +6,6 @@
     "sourceMap": false,
     "target": "ES2019",
     "module": "none",
-    "noImplicitUseStrict": true,
     "experimentalDecorators": true
   }
 }
