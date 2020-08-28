@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
+    "isolatedModules": true,
+    "noLib": true,
+    "noResolve": true,
     "sourceMap": false,
-    "target": "ES2017",
+    "target": "ES2019",
     "module": "none",
-    "lib": [
-      "esnext"
-    ],
+    "noImplicitUseStrict": true,
     "experimentalDecorators": true
   }
 }
