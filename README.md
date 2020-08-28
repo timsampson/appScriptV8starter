@@ -2,7 +2,6 @@
 
 This is a starter project for web app which uses clasp to deploy modern Javascript to Google's Apps Script (GAS) projects V8 engine.
 
-
 [Command Line Interface using clasp](https://developers.google.com/apps-script/guides/clasp)
 
 [Clasp's GitHub TypeScript guide](https://github.com/google/clasp/blob/master/docs/typescript.md)
