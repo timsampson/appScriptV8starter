@@ -2,6 +2,8 @@
 
 This is a starter project for web app which uses clasp to deploy modern Javascript to Google's Apps Script (GAS) projects V8 engine.
 
+I am finding it difficult to keep up with tsconfig, eslint (tslint) and the defaults.  It may not matter for a simple site, but I will use this repository to keep track of the optimal options to get started with modern Javascript features in the V8 engine, the web and use Typescript in development. If you find this helpful, that is a bonus.
+
 [Command Line Interface using clasp](https://developers.google.com/apps-script/guides/clasp)
 
 [Clasp's GitHub TypeScript guide](https://github.com/google/clasp/blob/master/docs/typescript.md)
