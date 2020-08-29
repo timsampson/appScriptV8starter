@@ -21,6 +21,6 @@
   ],
   "author": "Tim Sampson",
   "license": "MIT",
-  "repository": ".",
+  "repository": "https://github.com/timsampson/appScriptV8starter/blob/master/package.json",
   "private": true
 }
