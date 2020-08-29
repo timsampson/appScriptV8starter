@@ -1,6 +1,6 @@
 {
-  "name": "clasp-mailer",
-  "version": "0.1.1",
+  "name": "clasp-web-starter",
+  "version": "0.1",
   "description": "Create template app for mailing information from a spreadsheet.",
   "main": "code.ts",
   "devDependencies": {
