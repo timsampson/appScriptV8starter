@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "isolatedModules": true,
-    "noLib": true,
+    "lib": ["esnext"],
     "noResolve": true,
     "sourceMap": false,
     "target": "ES2019",
