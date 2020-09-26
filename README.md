@@ -4,6 +4,8 @@
 
 This is a starter project for web app which uses clasp to deploy modern Javascript to Google's Apps Script (GAS) projects V8 engine. I was finding it difficult to keep up with teh best right default settings for tsconfig and eslint.  I will use this repository to keep track of the most up to date options for getting started with modern Javascript features in the V8 engine, the web and use Typescript in development for Google Apps Script Projects. If you find this helpful, that's great.
 
+After cloning this repo, install Clasp globally npm install @google/clasp -g
+
 It includes the starter template for [Bootstrap 5](https://v5.getbootstrap.com/) with the sticky footer and the .devcontainer for Node and Javascript Projects for [Github Codespaces](https://docs.github.com/en/github/developing-online-with-codespaces).
 
 # References and Related Links

@@ -4,10 +4,7 @@
   "description": "Create template app for mailing information from a spreadsheet.",
   "main": "code.ts",
   "devDependencies": {
-    "@google/clasp": "2.3.0",
     "@types/google-apps-script": "1.0.14",
-    "inquirer": "7.3.2",
-    "inquirer-autocomplete-prompt-ipt": "2.0.0",
     "typescript": "3.8.2"
   },
   "keywords": [
