@@ -21,7 +21,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "yarn install",
-	"postCreateCommand": "npm install -g npm@latest && npm install inquirer@^6.0.0 -g && npm install @google/clasp -g"
+	"postCreateCommand": "npm install -g npm@latest && npm install -g inquirer@6.5.2  && npm install -g @google/clasp && sudo npm install"
 
 	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
 	// "remoteUser": "node"
