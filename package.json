@@ -1,7 +1,7 @@
 {
   "name": "clasp-web-starter",
   "version": "1.0.0",
-  "description": "Create template app for mailing information from a spreadsheet.",
+  "description": "A template for a GAPS Web App with bootstrap.",
   "main": "code.ts",
   "devDependencies": {
     "@types/google-apps-script": "1.0.14",
@@ -15,5 +15,5 @@
   "author": "Tim Sampson",
   "license": "MIT",
   "repository": "https://github.com/timsampson/appScriptV8starter/blob/master/package.json",
-  "private": true
+  "private": "false"
 }
